@@ -1,0 +1,24 @@
+{
+  "name": "node-package-testing",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifamingov/node-package-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asifamingov/node-package-testing/issues"
+  },
+  "homepage": "https://github.com/asifamingov/node-package-testing#readme",
+  "devDependencies": {
+    "release-it": "^13.5.5"
+  }
+}
