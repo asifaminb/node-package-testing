@@ -20,5 +20,8 @@
   "homepage": "https://github.com/asifamingov/node-package-testing#readme",
   "devDependencies": {
     "release-it": "^13.5.5"
+  },
+  "dependencies": {
+    "np": "^6.5.0"
   }
 }
